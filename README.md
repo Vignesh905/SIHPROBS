@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:09/03/2025
 ## Register Number: 212224040229
-## Name: PALLADI VENKATESH VIGNESH 
+## Name: PALADI VENKATESH VIGNESH 
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
@@ -14,11 +14,13 @@ Ministry of Environment
 To tackle the growing challenge of e-waste management, we propose the development of an integrated digital platform that facilitates the proper disposal and recycling of electronic devices. This platform will not only provide users with information on nearby e-waste collection and recycling facilities but also educate them on the environmental and health impacts of improper disposal. Additionally, it will incentivize responsible disposal through a credit points system based on the recovery of precious metals from disposed devices.
 
 ## Proposed Solution / Architecture Diagram
-![ewaste](https://github.com/mythriekkaluri2005/SIHPS/assets/150231422/d718dcec-4b0f-4b71-a536-2b1c1ac077d4)
+![image](https://github.com/user-attachments/assets/4c5aa80a-92a2-4fc6-8a83-4a300d64d6f1)
+
 
 
 ## Use Cases
-![eeeeee](https://github.com/mythriekkaluri2005/SIHPS/assets/150231422/93c0fbec-eac5-40f8-96a6-98aaab390f00)
+![image](https://github.com/user-attachments/assets/a516c367-ce45-4ac0-aae9-1e60cf9d767b)
+
 
 
 
